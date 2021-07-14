@@ -1,0 +1,55 @@
+
+ body{
+    background: #2196f3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f44336, #2196f3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f44336, #2196f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+
+
+
+#boton-vaciar{
+
+    color: black;
+}
+
+#boton-pagar{
+
+color:black;
+
+}
+
+.col-sm-3{
+
+    background-color: rgb(178, 178, 201);
+}
+
+.btn-primary{
+
+    color:black
+}
+
+.col-sm-3{
+
+    color: rgb(8, 29, 68);
+}
+
+.btn-danger{
+    background-color: rgb(178, 178, 201);
+}
+
+.pie-pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+    width: 100%;
+    margin-left: -0px;
+    font-family: sans-serif;
+    border-top: 1px solid #010e0e;
+    height: 30px;
+    padding: 1em;
+    margin-top: 50px;
+    background-color: rgb(178, 178, 201);
+}
